@@ -2,6 +2,10 @@
     margin:0px;
     padding:0px;
 }
+.blink:hover{
+    box-shadow:5px 5px #272626;
+    box-sizing: border-box;
+}
 
 .ok{
     display: flex;
